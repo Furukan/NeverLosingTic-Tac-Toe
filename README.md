@@ -6,6 +6,6 @@ the first player is X and the second is O
 
 there is three choices
 
-RealPlayer
+HumanPlayer
 RandomComputerPlayer
 SmartComputerPlayer
